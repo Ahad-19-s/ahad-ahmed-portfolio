@@ -31,7 +31,7 @@ export default function HeroContent({ progress }) {
 
         {/* Name Title */}
         <h1 className="text-4xl sm:text-6xl md:text-8xl font-extrabold tracking-tight text-white max-w-4xl">
-          MD FAHIM <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-teal-300 to-blue-500">PRODHAN</span>
+          AHAD <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-teal-300 to-blue-500">AHMED</span>
         </h1>
 
         {/* Roles & Tagline */}

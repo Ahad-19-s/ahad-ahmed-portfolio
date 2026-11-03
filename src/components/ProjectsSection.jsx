@@ -21,8 +21,8 @@ export default function ProjectsSection() {
         "Instant CSV export engine for data reporting and analysis",
       ],
       tech: ["React 19", "Node.js", "Express", "MongoDB", "Multi-Tenant SaaS", "Tailwind CSS"],
-      github: "https://github.com/Fahim-Prodhan",
-      demo: "https://github.com/Fahim-Prodhan",
+      github: "https://github.com/Ahad-19-s",
+      demo: "https://github.com/Ahad-19-s",
       accent: "from-cyan-500/20 to-blue-500/5",
       badgeColor: "bg-cyan-500/10 text-cyan-300 border-cyan-500/30",
     },
@@ -41,8 +41,8 @@ export default function ProjectsSection() {
         "Toast notification feedback system for seamless user interactions",
       ],
       tech: ["React 19", "Recharts", "React Router", "Tailwind CSS", "DaisyUI", "REST APIs"],
-      github: "https://github.com/Fahim-Prodhan/study-flow",
-      demo: "https://github.com/Fahim-Prodhan/study-flow",
+      github: "https://github.com/Ahad-19-s/study-flow",
+      demo: "https://github.com/Ahad-19-s/study-flow",
       accent: "from-teal-500/20 to-emerald-500/5",
       badgeColor: "bg-teal-500/10 text-teal-300 border-teal-500/30",
     },
@@ -61,8 +61,8 @@ export default function ProjectsSection() {
         "Clean, responsive interface optimized for desktop and mobile",
       ],
       tech: ["React 19", "React Router", "Tailwind CSS", "React Hot Toast", "REST APIs"],
-      github: "https://github.com/Fahim-Prodhan/library-management-react-frontend",
-      demo: "https://github.com/Fahim-Prodhan/library-management-react-frontend",
+      github: "https://github.com/Ahad-19-s/library-management-react-frontend",
+      demo: "https://github.com/Ahad-19-s/library-management-react-frontend",
       accent: "from-blue-500/20 to-indigo-500/5",
       badgeColor: "bg-blue-500/10 text-blue-300 border-blue-500/30",
     },
@@ -81,7 +81,7 @@ export default function ProjectsSection() {
         "Modern dark-glass interface with Framer Motion transitions",
       ],
       tech: ["React 19", "GSAP ScrollTrigger", "Lenis", "Motion", "Tailwind CSS", "Sharp"],
-      github: "https://github.com/Fahim-Prodhan",
+      github: "https://github.com/Ahad-19-s",
       demo: "#",
       accent: "from-purple-500/20 to-pink-500/5",
       badgeColor: "bg-purple-500/10 text-purple-300 border-purple-500/30",
@@ -109,7 +109,7 @@ export default function ProjectsSection() {
             Featured <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-teal-300">Projects</span>
           </h2>
           <p className="mt-4 text-base sm:text-lg text-zinc-400">
-            A showcase of production-ready SaaS architectures, interactive platforms, and modern web applications built by MD Fahim Prodhan.
+            A showcase of production-ready SaaS architectures, interactive platforms, and modern web applications built by MD Ahad Ahmed.
           </p>
 
           {/* Filter Buttons */}

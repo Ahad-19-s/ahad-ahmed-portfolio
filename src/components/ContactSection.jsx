@@ -13,7 +13,7 @@ export default function ContactSection() {
   const [submitted, setSubmitted] = useState(false);
   const [submitting, setSubmitting] = useState(false);
 
-  const email = "fahimprodhan0@gmail.com";
+  const email = "md3898145@gmail.com";
 
   const handleCopyEmail = () => {
     navigator.clipboard.writeText(email);
@@ -112,7 +112,7 @@ export default function ContactSection() {
 
               {/* GitHub item */}
               <a
-                href="https://github.com/Fahim-Prodhan"
+                href="https://github.com/Ahad-19-s"
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center justify-between p-4 rounded-2xl bg-zinc-900/50 border border-white/10 hover:border-cyan-500/30 transition-colors group"
@@ -126,7 +126,7 @@ export default function ContactSection() {
                       GitHub Profile
                     </div>
                     <div className="text-sm font-semibold text-white group-hover:text-cyan-300 transition-colors">
-                      github.com/Fahim-Prodhan
+                      github.com/Ahad-19-s
                     </div>
                   </div>
                 </div>
@@ -164,7 +164,7 @@ export default function ContactSection() {
                     Message Sent Successfully!
                   </h3>
                   <p className="text-sm text-zinc-300 max-w-md mx-auto">
-                    Thank you for reaching out. Fahim has received your inquiry and will reply to <span className="text-cyan-300 font-semibold">{email}</span> as soon as possible.
+                    Thank you for reaching out. Ahad has received your inquiry and will reply to <span className="text-cyan-300 font-semibold">{email}</span> as soon as possible.
                   </p>
                   <button
                     onClick={() => setSubmitted(false)}
@@ -254,7 +254,7 @@ export default function ContactSection() {
                     ) : (
                       <>
                         <Send className="w-4 h-4" />
-                        <span>Send Message to Fahim</span>
+                        <span>Send Message to Ahad</span>
                       </>
                     )}
                   </button>
